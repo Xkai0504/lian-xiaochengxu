@@ -1,3 +1,6 @@
+/* pages/index02/index02.wxss */
+
+
 /**index.wxss**/
 
 .userinfo {
@@ -355,9 +358,11 @@
     border-bottom: 1rpx solid #d9d9d9;
     padding: 32rpx 0;
 }
-.wmp_pro .wmp_part:last-child{
+
+.wmp_pro .wmp_part:last-child {
     border-bottom: 0;
 }
+
 .wmp_part .wmp_part_img {
     position: relative;
     width: 176rpx;

@@ -1,14 +1,23 @@
 {
-  "pages":[
-    "pages/index/index",
-    "pages/logs/logs"
-  ],
-  "window":{
-    "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "利安微名片",
-    "navigationBarTextStyle":"black"
-  },
-  "style": "v2",
-  "sitemapLocation": "sitemap.json"
+    "pages": [
+        "pages/memberCheck/memberCheck",
+        "pages/memberReview/memberReview",
+        "pages/index/index",
+        "pages/index02/index02",
+        "pages/index03/index03",
+        "pages/logs/logs"
+
+    ],
+    "?pages": [
+        "利安微程序-管理员：pages/index/index",
+        "利安微程序-管理员：pages/index02/index02"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "利安微名片",
+        "navigationBarTextStyle": "black"
+    },
+    "style": "v2",
+    "sitemapLocation": "sitemap.json"
 }

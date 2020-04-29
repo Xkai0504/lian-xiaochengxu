@@ -1,6 +1,6 @@
-//index.js
+//index02.js
 //获取应用实例
-const app = getApp()
+// const app = getApp()
 
 //index.js
 Page({

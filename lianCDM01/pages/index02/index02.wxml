@@ -1,3 +1,4 @@
+<!--pages/index02/index02.wxml-->
 <!--index.wxml-->
 <view class="wmp_contain">
 	<!-- 头部 -->
@@ -30,7 +31,7 @@
 						<view class="wmp_sczjicon">
 							<i class="iconfont icon-icon-"></i>
 						</view>
-						<view class="wmp_sczj">市场总监</view>
+						<view class="wmp_sczj">销售经理</view>
 
 					</view>
 				</view>
@@ -54,13 +55,13 @@
 <!-- 导航部分 -->
 
 <ul class="wmp_navBar">
-<li>
+<!-- <li>
 <view class="wmp_navBar_icon">
 <i class="iconfont icon-wodetuandui"></i>
 </view>
 <text>我的团队</text>
 
-</li>
+</li> -->
 <li>
 <view class="wmp_navBar_icon">
 <i class="iconfont icon-kehuguanxiguanli"></i>
@@ -68,13 +69,13 @@
 <text>我的客户</text>
 
 </li>
-<li>
+<!-- <li>
 <view class="wmp_navBar_icon">
 <i class="iconfont icon-tubiao_qudao"></i>
 </view>
 <text>我的渠道</text>
 
-</li>
+</li> -->
 <li>
 <view class="wmp_navBar_icon">
 <i class="iconfont icon-gerenxinxi"></i>
